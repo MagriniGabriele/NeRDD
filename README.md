@@ -10,6 +10,11 @@ In particular, the event-based camera is a Prophesee EVK4 HD, equipped with an 8
 
 The resulting dataset comprises 3.5 hours of multimodal recordings (a total of 7 hours of footage) at 30 FPS, divided into 115 different videos. Location and background activity significantly varies across videos. Both modalities have HD resolution (1280 x 720).
 
+
+![EV-RGB Examples]https://github.com/MagriniGabriele/NeRDD/blob/main/src/Screenshot%202024-09-29%20at%2007.17.06.png
+?raw=true)
+
+
 <a href="https://drive.google.com/uc?export=view&id=19TqTYYjmnxwHgC61wHcIncF42Cb_CwNK"><img src="https://drive.google.com/uc?export=view&id=19TqTYYjmnxwHgC61wHcIncF42Cb_CwNK" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 LINK FOR THE DATASET COMING SOON.
