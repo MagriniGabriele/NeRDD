@@ -13,6 +13,6 @@ The resulting dataset comprises 3.5 hours of multimodal recordings (a total of 7
 
 ![EV-RGB Examples](https://github.com/MagriniGabriele/NeRDD/blob/main/src/Screenshot%202024-09-29%20at%2007.17.06.png?raw=true)
 
+![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA2dmw1Z2oyN2x5dnAycml2N3F0eDFwajgxa2ZnaGw4d2VydWF0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Y9yRBNC7oavreolhB/giphy-downsized-large.gif)
 
-<a href="https://drive.google.com/file/d/1Dx0oCaxoOC0hMeldPNT2MKJgqe87ppka/view?usp=sharing"><img src="https://drive.google.com/file/d/1Dx0oCaxoOC0hMeldPNT2MKJgqe87ppka/view?usp=sharing" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 LINK FOR THE DATASET COMING SOON.
