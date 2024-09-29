@@ -1,5 +1,5 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2409.16099-B31B1B.svg)](https://arxiv.org/abs/2409.16099)
-[![Poster](https://img.shields.io/badge/Poster-Download-blue)](https://github.com/MagriniGabriele/NeRDD/blob/main/src/ECCV24_NeRDD%20(1).pdf)
+[![Poster](https://img.shields.io/badge/Poster-Download-blue)](https://github.com/MagriniGabriele/NeRDD/blob/main/src/ECCV24_NeRDD.pdf)
 ![GitHub stars](https://img.shields.io/github/stars/MagriniGabriele/NeRDD?style=social)
 
 # NeRDD
