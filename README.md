@@ -10,7 +10,7 @@ In particular, the event-based camera is a Prophesee EVK4 HD, equipped with an 8
 
 The resulting dataset comprises 3.5 hours of multimodal recordings (a total of 7 hours of footage) at 30 FPS, divided into 115 different videos. Location and background activity significantly varies across videos. Both modalities have HD resolution ($1280 \times 720$).
 A comparison of the NeRDD dataset with other event-based drone datasets is given in Tab. \ref{table:dataset_comparison}.
-
+ $
 \begin{table}[t]
 \begin{center}
 \caption{Comparison of existing event-based drone datasets. Other datasets either have a low resolution, do not contain RGB versions of the samples, are not Drone-centric or are very small.}
@@ -30,6 +30,7 @@ A comparison of the NeRDD dataset with other event-based drone datasets is given
 \end{tabular}
 
 \end{center}
+$
 \end{table}
 
 LINK FOR THE DATASET COMING SOON.
