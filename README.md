@@ -12,6 +12,5 @@ The resulting dataset comprises 3.5 hours of multimodal recordings (a total of 7
 
 
 ![EV-RGB Examples](https://github.com/MagriniGabriele/NeRDD/blob/main/src/Screenshot%202024-09-29%20at%2007.17.06.png?raw=true)
-https://github.com/MagriniGabriele/NeRDD/blob/main/src/giphy.gif?raw=true
-![RGB Gif](https://raw.githubusercontent.com/MagriniGabriele/NeRDD/blob/main/src/giphy.gif?raw=true)
+![RGB Gif](https://github.com/MagriniGabriele/NeRDD/blob/main/src/giphy.gif?raw=true)
 LINK FOR THE DATASET COMING SOON.
