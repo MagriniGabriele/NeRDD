@@ -14,7 +14,9 @@ The resulting dataset comprises 3.5 hours of multimodal recordings (a total of 7
 ![EV-RGB Examples](https://github.com/MagriniGabriele/NeRDD/blob/main/src/Screenshot%202024-09-29%20at%2007.17.06.png?raw=true)
 
 The NeRDD dataset is spatio-temporally synced, with fully overlappable frames both in space and time, providing a single coordinate space for both domains.
-
+<p align="center">
+  <img src="[demo.gif](https://github.com/MagriniGabriele/NeRDD/blob/main/src/both.gif?raw=true)" alt="animated" />
+</p>
 ![RGB Gif](https://github.com/MagriniGabriele/NeRDD/blob/main/src/both.gif?raw=true)
 
 LINK FOR THE DATASET COMING SOON.
