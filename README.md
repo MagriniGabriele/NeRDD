@@ -10,6 +10,8 @@ In particular, the event-based camera is a Prophesee EVK4 HD, equipped with an 8
 
 The resulting dataset comprises 3.5 hours of multimodal recordings (a total of 7 hours of footage) at 30 FPS, divided into 115 different videos. Location and background activity significantly varies across videos. Both modalities have HD resolution (1280 x 720).
 
+The dataset is available here: https://drive.google.com/file/d/1LbNW8zaCA6rqaGNA54IeqgjovY_aLSeU/view?usp=sharing
+
 
 ![EV-RGB Examples](https://github.com/MagriniGabriele/NeRDD/blob/main/src/Screenshot%202024-09-29%20at%2007.17.06.png?raw=true)
 
@@ -22,6 +24,3 @@ The NeRDD dataset is spatio-temporally synced, with fully overlappable frames bo
 [RGB Gif](https://github.com/MagriniGabriele/NeRDD/blob/main/src/both.gif?raw=true)
 -->
 
-<p align="center">
-LINK FOR THE DATASET COMING SOON.
-</p>
