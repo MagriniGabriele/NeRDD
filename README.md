@@ -2,6 +2,11 @@
 [![Poster](https://img.shields.io/badge/Poster-Download-blue)](https://github.com/MagriniGabriele/NeRDD/blob/main/src/ECCV24_NeRDD.pdf)
 ![GitHub stars](https://img.shields.io/github/stars/MagriniGabriele/NeRDD?style=social)
 
+# Also check out FRED, our newly released multimodal drone dataset with challenging scenarios!
+You can find it here: ![FRED dataset](https://github.com/miccunifi/FRED)
+
+
+
 # NeRDD
 Repo for NeRDD dataset, comprising of more than 3.5 hours of spatio-temporally synced RGB-Event drone recordings.
 
