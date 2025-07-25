@@ -3,7 +3,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/MagriniGabriele/NeRDD?style=social)
 
 # Also check out FRED, our newly released multimodal drone dataset with challenging scenarios!
-You can find it here: ![FRED dataset](https://github.com/miccunifi/FRED)
+You can find it here: https://github.com/miccunifi/FRED
 
 
 
